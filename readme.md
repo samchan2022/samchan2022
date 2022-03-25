@@ -4,7 +4,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on the top programmers
-<!-- - 📫 How to reach me by email --->
 - 👯 I’m looking forward to collaborate on open source projects.
 
 <!---

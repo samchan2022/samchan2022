@@ -7,11 +7,14 @@
 - 👯 I’m looking forward to collaborate on open source projects.
 
 <!---
-samchan2022/samchan2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+samchan2022/samchan2022 is a ✨ special ✨ repository because itsd `README.md` (this file) appears on your GitHub 
+
+.
 You can click the Preview link to take a look at your changes.
---->
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samchan2022&label=Profile%20views&color=0e75b6&style=flat" alt="samchan2022" /> </p>
 
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samchan2022" alt="samchan2022" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samchan2022&show_icons=true&locale=en&layout=compact" alt="samchan2022" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samchan2022&show_icons=true&locale=en" alt="samchan2022" /></p> -->
-<p>samchan</p>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=samchan2022"/></a>
 
 ---------------------------------------------------------------------------------------------------------------------
